@@ -17,7 +17,7 @@ st.markdown(
       color: #2E86C1 !important;
     }
     p {
-      color: white !important;
+      color: orange !important;
     }
     div[data-testid="stForm"] {
         background-color: black;
